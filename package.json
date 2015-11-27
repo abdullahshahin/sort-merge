@@ -1,0 +1,14 @@
+{
+  "name": "@abdullah.shahin/sort-merge",
+  "version": "1.0.0",
+  "description": "A javascript lib for sorting arrays and objects in sync and async",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah Shahin",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.0"
+  }
+}

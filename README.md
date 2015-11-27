@@ -91,7 +91,7 @@ sort.MergeMultiAsync.descending([[2,4,73,1],[3,8,0,3],[12,34,11,24],[774,21]],fu
 
 <b>LICENSE</b>
 <p>
-sort-node: Copyright (c) 2015 Abdullah Shahin
+sort-merge: Copyright (c) 2015 Abdullah Shahin
 </p>
 <p>
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

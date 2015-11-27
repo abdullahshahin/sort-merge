@@ -1,14 +1,29 @@
 {
-  "name": "@abdullah.shahin/sort-merge",
-  "version": "1.0.0",
+  "name": "sort-merge",
+  "version": "0.1.3",
   "description": "A javascript lib for sorting arrays and objects in sync and async",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Abdullah Shahin",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "async": "^1.5.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahshahin/sort-merge.git"
+  },
+  "keywords": [
+    "sort",
+    "merge",
+    "sort",
+    "merge"
+  ],
+  "bugs": {
+    "url": "https://github.com/abdullahshahin/sort-merge/issues"
+  },
+  "homepage": "https://github.com/abdullahshahin/sort-merge#readme"
 }
